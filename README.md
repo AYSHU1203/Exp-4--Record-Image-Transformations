@@ -85,7 +85,7 @@ import matplotlib.pyplot as plt
 ```
 ```PYTHON
 # Step 1: Load the image
-image = cv2.imread('baseball.jpg')  # Load the image from file
+image = cv2.imread('Qno.1.jpg')  # Load the image from file
 ```
 ```PYTHON
 # Display the original image
